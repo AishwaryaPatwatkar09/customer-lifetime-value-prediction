@@ -1,0 +1,6 @@
+Segment,Count,Avg_Predicted_CLV,Total_Predicted_Value,Avg_Historical_Spent,Avg_Frequency,Avg_Recency,Percentage_of_Total_Value
+VIP (Top 20%),858,5328.94,4572233.62,5324.35,11.6,29.99,67.4
+High Value,858,1358.58,1165662.72,1336.57,4.17,58.44,17.2
+Medium Value,858,688.31,590573.76,662.92,2.5,82.22,8.7
+Low Value,858,364.31,312579.19,357.86,1.56,128.96,4.6
+At Risk (Bottom 20%),858,171.88,147476.98,170.35,1.16,162.31,2.2
